@@ -1,6 +1,6 @@
-# CV Library — Professional CV Templates for Afghanistan's Job Market
+# Job-Readt and Professional CV Templates for Afghanistan's Job Market
 
-A free, open-source collection of 60+ professional CV templates based on real Afghan job postings from ACBAR. Built for Afghan job seekers targeting NGO, INGO, private sector, and government roles. Deploys on GitHub Pages — no backend required.
+A free, open-source collection of 60+ professional CV templates based on real Afghan job postings from ACBAR. Built for Afghan job seekers targeting NGO, INGO, private sector, and government roles.
 
 **Live site:** [github/ewazfakor](https://github.com/ewazfakor)
 
@@ -266,14 +266,6 @@ Edit the `<footer>` section in `index.html`.
 | GitHub Pages | Free static hosting |
 
 No frameworks, no build tools, no npm packages — just clean, modern web standards.
-
----
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-The CV templates are provided as **demo/placeholder files** for educational and structural purposes. Replace them with your own professionally designed CV templates before publishing.
 
 ---
 
