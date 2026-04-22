@@ -1,4 +1,4 @@
-# Job-Readt and Professional CV Templates for Afghanistan's Job Market
+# Job-Ready and Professional CV Templates for Afghanistan's Job Market
 
 A free, open-source collection of 60+ professional CV templates based on real Afghan job postings from ACBAR. Built for Afghan job seekers targeting NGO, INGO, private sector, and government roles.
 
